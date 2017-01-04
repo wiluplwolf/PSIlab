@@ -1,0 +1,116 @@
+﻿Build started 2017-01-24 22:54:41.
+     1>Project "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\GALex.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Pliki programów (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GENETICLIBRARY_EXPORTS /D _CRT_SECURE_NO_WARNINGS /D _DO_NOT_DECLARE_INTERLOCKED_INTRINSICS_IN_MEMORY /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\\" /Fd"C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\vc140.pdb" /Gr /TP /analyze- /errorReport:prompt source\Adoptions.cpp source\AlgorithmStub.cpp source\Array.cpp source\Barrier.cpp source\CellularCoupling.cpp source\ChromosomeGroup.cpp source\ChromosomeStorage.cpp source\Couplings.cpp source\Crossovers.cpp source\Exceptions.cpp source\FitnessComparators.cpp source\FitnessSharing.cpp source\GlobalRandomGenerator.cpp source\Grid.cpp source\Initialization.cpp source\List.cpp source\Matings.cpp source\Migrations.cpp source\Mutations.cpp source\NSGA.cpp source\NSGAStub.cpp source\Observing.cpp source\PAES.cpp source\PAESStub.cpp source\PESA.cpp source\PESAStub.cpp source\Population.cpp source\PopulationOperations.cpp source\PopulationStatistics.cpp source\RDGA.cpp source\RDGAStub.cpp source\Random.cpp source\RandomSequence.cpp source\Replacements.cpp source\SPEA.cpp source\SPEAStub.cpp source\Scalings.cpp source\Selections.cpp source\SimpleStub.cpp source\Statistics.cpp source\StopCriteria.cpp source\SysInfo.cpp source\Tags.cpp source\ThreadPool.cpp source\Threading.cpp source\Timing.cpp source\Tree.cpp source\VEGA.cpp source\Workflows.cpp
+         Workflows.cpp
+         VEGA.cpp
+         Tree.cpp
+         Timing.cpp
+         Threading.cpp
+         ThreadPool.cpp
+         Tags.cpp
+         SysInfo.cpp
+         StopCriteria.cpp
+         Statistics.cpp
+         SimpleStub.cpp
+         Selections.cpp
+         Scalings.cpp
+         SPEAStub.cpp
+         SPEA.cpp
+         Replacements.cpp
+         RandomSequence.cpp
+         Random.cpp
+         RDGAStub.cpp
+         RDGA.cpp
+         Generating Code...
+         Compiling...
+         PopulationStatistics.cpp
+         PopulationOperations.cpp
+         Population.cpp
+         PESAStub.cpp
+         PESA.cpp
+         PAESStub.cpp
+         PAES.cpp
+         Observing.cpp
+         NSGAStub.cpp
+         NSGA.cpp
+         Mutations.cpp
+         Migrations.cpp
+         Matings.cpp
+         List.cpp
+         Initialization.cpp
+         Grid.cpp
+         GlobalRandomGenerator.cpp
+         FitnessSharing.cpp
+         FitnessComparators.cpp
+         Exceptions.cpp
+         Generating Code...
+         Compiling...
+         Crossovers.cpp
+         Couplings.cpp
+         ChromosomeStorage.cpp
+         ChromosomeGroup.cpp
+         CellularCoupling.cpp
+         Barrier.cpp
+         Array.cpp
+         AlgorithmStub.cpp
+         Adoptions.cpp
+         Generating Code...
+       Link:
+         F:\Pliki programów (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\GALex.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libmmdd.lib /MANIFEST:NO /Debug /PDB:"C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\GALex.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\GALex.lib" /MACHINE:X86 /SAFESEH /DLL "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\AlgorithmStub.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Array.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Initialization.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\GlobalRandomGenerator.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\NSGAStub.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\PAES.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\PAESStub.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\PESAStub.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Random.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\RandomSequence.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Barrier.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\RDGAStub.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\SimpleStub.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\SPEAStub.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\SysInfo.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Threading.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\ThreadPool.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Workflows.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Exceptions.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\List.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Tags.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Tree.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Observing.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Grid.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Timing.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\ChromosomeGroup.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\ChromosomeStorage.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Population.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\PopulationOperations.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\PopulationStatistics.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Selections.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\FitnessSharing.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Scalings.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Replacements.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\CellularCoupling.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Couplings.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Mutations.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Crossovers.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Matings.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\StopCriteria.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\FitnessComparators.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Statistics.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\NSGA.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\PESA.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\RDGA.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\SPEA.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\VEGA.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Adoptions.obj"
+         "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\objs\Migrations.obj"
+     1>AlgorithmStub.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+            Creating library C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\GALex.lib and object C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\GALex.exp
+         GALex.vcxproj -> C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\build\Debug\msvc\GALex.dll
+     1>Done Building Project "C:\Users\Cycuś\Documents\Visual Studio 2015\Projects\src\GALex.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:24.01
